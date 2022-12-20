@@ -12,7 +12,7 @@ class MyTestCase(unittest.TestCase):
 
     def test_subNumbers(self):
         print(8 - 1)
-        self.assertEqual(7,7)
+        self.assertEqual(7, 7)
 
         # self.assertEqual(True, False)  # add assertion here
 

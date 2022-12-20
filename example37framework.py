@@ -1,0 +1,1 @@
+print("A framework is a set of rules and regulation which we follow when automating an application.\nEvery organisation have their own customized framework ")
